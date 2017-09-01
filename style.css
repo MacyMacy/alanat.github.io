@@ -78,9 +78,9 @@ nav ul li a{
 
 #container{
     
-    width:70%;
-        height:630px;
-    padding-left: 20px;
+    width: 50vw;
+    height: 50vw;
+    
     margin: 0 auto;
     
     position: relative;
